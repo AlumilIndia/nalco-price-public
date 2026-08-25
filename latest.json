@@ -5,8 +5,146 @@
   "price_127mm": 366650,
   "price_152mm": 365150,
   "price_178_203_229_254mm": 362650,
-  "updated_at_utc": "2026-08-25T07:16:46Z",
-  "recent_trend": [
+  "updated_at_utc": "2026-08-25T08:28:56Z",
+  "history": [
+    {
+      "effective_date": "2025-02-25",
+      "price_127mm": 331450,
+      "price_152mm": 329950,
+      "price_178_203_229_254mm": 327450
+    },
+    {
+      "effective_date": "2025-02-28",
+      "price_127mm": 280550,
+      "price_152mm": 279050,
+      "price_178_203_229_254mm": 276550
+    },
+    {
+      "effective_date": "2025-10-30",
+      "price_127mm": 302450,
+      "price_152mm": 300950,
+      "price_178_203_229_254mm": 298450
+    },
+    {
+      "effective_date": "2025-11-01",
+      "price_127mm": 305550,
+      "price_152mm": 304050,
+      "price_178_203_229_254mm": 301550
+    },
+    {
+      "effective_date": "2025-11-02",
+      "price_127mm": 304450,
+      "price_152mm": 302950,
+      "price_178_203_229_254mm": 300450
+    },
+    {
+      "effective_date": "2025-11-07",
+      "price_127mm": 301050,
+      "price_152mm": 299550,
+      "price_178_203_229_254mm": 297050
+    },
+    {
+      "effective_date": "2025-11-19",
+      "price_127mm": 290350,
+      "price_152mm": 288850,
+      "price_178_203_229_254mm": 286350
+    },
+    {
+      "effective_date": "2025-11-27",
+      "price_127mm": 299350,
+      "price_152mm": 297850,
+      "price_178_203_229_254mm": 295350
+    },
+    {
+      "effective_date": "2025-12-03",
+      "price_127mm": 304450,
+      "price_152mm": 302950,
+      "price_178_203_229_254mm": 300450
+    },
+    {
+      "effective_date": "2025-12-05",
+      "price_127mm": 304450,
+      "price_152mm": 302950,
+      "price_178_203_229_254mm": 300450
+    },
+    {
+      "effective_date": "2025-12-16",
+      "price_127mm": 304450,
+      "price_152mm": 302950,
+      "price_178_203_229_254mm": 300450
+    },
+    {
+      "effective_date": "2025-12-23",
+      "price_127mm": 304450,
+      "price_152mm": 302950,
+      "price_178_203_229_254mm": 300450
+    },
+    {
+      "effective_date": "2025-12-24",
+      "price_127mm": 310050,
+      "price_152mm": 308550,
+      "price_178_203_229_254mm": 306050
+    },
+    {
+      "effective_date": "2025-12-26",
+      "price_127mm": 310050,
+      "price_152mm": 308550,
+      "price_178_203_229_254mm": 306050
+    },
+    {
+      "effective_date": "2025-12-29",
+      "price_127mm": 310050,
+      "price_152mm": 308550,
+      "price_178_203_229_254mm": 306050
+    },
+    {
+      "effective_date": "2026-01-01",
+      "price_127mm": 315650,
+      "price_152mm": 314150,
+      "price_178_203_229_254mm": 311650
+    },
+    {
+      "effective_date": "2026-01-07",
+      "price_127mm": 328450,
+      "price_152mm": 326950,
+      "price_178_203_229_254mm": 324450
+    },
+    {
+      "effective_date": "2026-01-13",
+      "price_127mm": 328450,
+      "price_152mm": 326950,
+      "price_178_203_229_254mm": 324450
+    },
+    {
+      "effective_date": "2026-01-14",
+      "price_127mm": 339150,
+      "price_152mm": 337650,
+      "price_178_203_229_254mm": 335150
+    },
+    {
+      "effective_date": "2026-01-21",
+      "price_127mm": 339150,
+      "price_152mm": 337650,
+      "price_178_203_229_254mm": 335150
+    },
+    {
+      "effective_date": "2026-01-28",
+      "price_127mm": 341850,
+      "price_152mm": 340350,
+      "price_178_203_229_254mm": 337850
+    },
+    {
+      "effective_date": "2026-02-01",
+      "price_127mm": 328850,
+      "price_152mm": 327350,
+      "price_178_203_229_254mm": 324850
+    },
+    {
+      "effective_date": "2026-02-07",
+      "price_127mm": 326450,
+      "price_152mm": 324950,
+      "price_178_203_229_254mm": 322450
+    },
     {
       "effective_date": "2026-02-12",
       "price_127mm": 332150,
