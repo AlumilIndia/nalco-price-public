@@ -1,0 +1,191 @@
+{
+  "grade": "CH10",
+  "unit": "INR per MT",
+  "effective_date": "2026-08-21",
+  "price_127mm": 366650,
+  "price_152mm": 365150,
+  "price_178_203_229_254mm": 362650,
+  "updated_at_utc": "2026-08-25T07:16:46Z",
+  "recent_trend": [
+    {
+      "effective_date": "2026-02-12",
+      "price_127mm": 332150,
+      "price_152mm": 330650,
+      "price_178_203_229_254mm": 328150
+    },
+    {
+      "effective_date": "2026-02-18",
+      "price_127mm": 324550,
+      "price_152mm": 323050,
+      "price_178_203_229_254mm": 320550
+    },
+    {
+      "effective_date": "2026-03-01",
+      "price_127mm": 347850,
+      "price_152mm": 346350,
+      "price_178_203_229_254mm": 343850
+    },
+    {
+      "effective_date": "2026-03-06",
+      "price_127mm": 355650,
+      "price_152mm": 354150,
+      "price_178_203_229_254mm": 351650
+    },
+    {
+      "effective_date": "2026-03-11",
+      "price_127mm": 367150,
+      "price_152mm": 365650,
+      "price_178_203_229_254mm": 363150
+    },
+    {
+      "effective_date": "2026-03-17",
+      "price_127mm": 380450,
+      "price_152mm": 378950,
+      "price_178_203_229_254mm": 376450
+    },
+    {
+      "effective_date": "2026-03-18",
+      "price_127mm": 380450,
+      "price_152mm": 378950,
+      "price_178_203_229_254mm": 376450
+    },
+    {
+      "effective_date": "2026-03-19",
+      "price_127mm": 368450,
+      "price_152mm": 366950,
+      "price_178_203_229_254mm": 364450
+    },
+    {
+      "effective_date": "2026-03-24",
+      "price_127mm": 358850,
+      "price_152mm": 357350,
+      "price_178_203_229_254mm": 354850
+    },
+    {
+      "effective_date": "2026-03-28",
+      "price_127mm": 365450,
+      "price_152mm": 363950,
+      "price_178_203_229_254mm": 361450
+    },
+    {
+      "effective_date": "2026-04-16",
+      "price_127mm": 392050,
+      "price_152mm": 390550,
+      "price_178_203_229_254mm": 388050
+    },
+    {
+      "effective_date": "2026-04-24",
+      "price_127mm": 400950,
+      "price_152mm": 399450,
+      "price_178_203_229_254mm": 396950
+    },
+    {
+      "effective_date": "2026-05-01",
+      "price_127mm": 398450,
+      "price_152mm": 396950,
+      "price_178_203_229_254mm": 394450
+    },
+    {
+      "effective_date": "2026-05-14",
+      "price_127mm": 417250,
+      "price_152mm": 415750,
+      "price_178_203_229_254mm": 413250
+    },
+    {
+      "effective_date": "2026-05-20",
+      "price_127mm": 413350,
+      "price_152mm": 411850,
+      "price_178_203_229_254mm": 409350
+    },
+    {
+      "effective_date": "2026-05-27",
+      "price_127mm": 419450,
+      "price_152mm": 417950,
+      "price_178_203_229_254mm": 415450
+    },
+    {
+      "effective_date": "2026-06-01",
+      "price_127mm": 420950,
+      "price_152mm": 419450,
+      "price_178_203_229_254mm": 416950
+    },
+    {
+      "effective_date": "2026-06-05",
+      "price_127mm": 424750,
+      "price_152mm": 423250,
+      "price_178_203_229_254mm": 420750
+    },
+    {
+      "effective_date": "2026-06-10",
+      "price_127mm": 410750,
+      "price_152mm": 409250,
+      "price_178_203_229_254mm": 406750
+    },
+    {
+      "effective_date": "2026-06-13",
+      "price_127mm": 402250,
+      "price_152mm": 400750,
+      "price_178_203_229_254mm": 398250
+    },
+    {
+      "effective_date": "2026-06-18",
+      "price_127mm": 384950,
+      "price_152mm": 383450,
+      "price_178_203_229_254mm": 380950
+    },
+    {
+      "effective_date": "2026-06-26",
+      "price_127mm": 357450,
+      "price_152mm": 355950,
+      "price_178_203_229_254mm": 353450
+    },
+    {
+      "effective_date": "2026-07-01",
+      "price_127mm": 352450,
+      "price_152mm": 350950,
+      "price_178_203_229_254mm": 348450
+    },
+    {
+      "effective_date": "2026-07-11",
+      "price_127mm": 361250,
+      "price_152mm": 359750,
+      "price_178_203_229_254mm": 357250
+    },
+    {
+      "effective_date": "2026-07-18",
+      "price_127mm": 364750,
+      "price_152mm": 363250,
+      "price_178_203_229_254mm": 360750
+    },
+    {
+      "effective_date": "2026-07-29",
+      "price_127mm": 363350,
+      "price_152mm": 361850,
+      "price_178_203_229_254mm": 359350
+    },
+    {
+      "effective_date": "2026-08-01",
+      "price_127mm": 371750,
+      "price_152mm": 370250,
+      "price_178_203_229_254mm": 367750
+    },
+    {
+      "effective_date": "2026-08-12",
+      "price_127mm": 383650,
+      "price_152mm": 382150,
+      "price_178_203_229_254mm": 379650
+    },
+    {
+      "effective_date": "2026-08-15",
+      "price_127mm": 372750,
+      "price_152mm": 371250,
+      "price_178_203_229_254mm": 368750
+    },
+    {
+      "effective_date": "2026-08-21",
+      "price_127mm": 366650,
+      "price_152mm": 365150,
+      "price_178_203_229_254mm": 362650
+    }
+  ]
+}
