@@ -1,11 +1,11 @@
 {
   "grade": "CH10",
   "unit": "INR per KG",
-  "effective_date": "2026-11-02",
-  "price_127mm": 355.35,
-  "price_152mm": 353.85,
-  "price_178_203_229_254mm": 351.35,
-  "updated_at_utc": "2026-11-03T11:18:51Z",
+  "effective_date": "2026-11-14",
+  "price_127mm": 357.75,
+  "price_152mm": 356.25,
+  "price_178_203_229_254mm": 353.75,
+  "updated_at_utc": "2026-11-14T10:53:56Z",
   "history": [
     {
       "effective_date": "2025-02-25",
@@ -378,6 +378,12 @@
       "price_127mm": 355.35,
       "price_152mm": 353.85,
       "price_178_203_229_254mm": 351.35
+    },
+    {
+      "effective_date": "2026-11-14",
+      "price_127mm": 357.75,
+      "price_152mm": 356.25,
+      "price_178_203_229_254mm": 353.75
     }
   ]
 }
